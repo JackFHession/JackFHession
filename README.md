@@ -2,7 +2,7 @@
 
 Hi! I'm Jack. 👋
 
-I'm a 19 year-old programmer - with interest in coding since 2015 and experience since 2021.
+I am a programmer - born in 2004, the naughties - with interest in coding since 2015.
 
 <h2> Experience </h2>
 
