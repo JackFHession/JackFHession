@@ -2,6 +2,8 @@
 
 Hi! I'm Jack. 👋
 
+And I finally know... what I have to do...
+
 I am a programmer - born in 2004, the naughties - with interest in coding since 2015.
 
 <h2> Experience </h2>
